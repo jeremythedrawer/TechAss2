@@ -27,7 +27,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _dotScale: 76.69
+    - _fallOff: 0.98
     - _randomFactor: 0.338
+    - _spacing: 0.19
     - _speed: 0.557
     m_Colors:
     - _bgColor: {r: 0.121568635, g: 0.14117648, b: 0.2901961, a: 1}

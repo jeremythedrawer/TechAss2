@@ -127,14 +127,16 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _distortion: 0.06
     - _idStrength: 0.303
     - _lineWidth: 0.069
     - _lineWidthRandomFactor: 0.4
     - _offset: 0.25
     - _randomFactor: 0.89
     - _randomScale: 122.2
-    - _scale: 25.5
-    - _speed: 0.129
+    - _scale: 34.1
+    - _speed: 0.5
+    - _thickness: 0.34
     - _wobbleRamdonFactor: 0.321
     - _wobbleRandomFactor: 0.0236
     m_Colors:
@@ -143,6 +145,10 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _bgColor: {r: 0.8509804, g: 0.23921569, b: 0.30836228, a: 1}
+    - _capsuleDirection: {r: -0.3, g: 0.7, b: 0, a: 0}
+    - _color1: {r: 0.14351194, g: 0.4056604, b: 0.23985264, a: 0}
+    - _color2: {r: 0.052064802, g: 0.24335305, b: 0.2830189, a: 0}
     - _lineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _scale: {r: 132.9, g: 21.4, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

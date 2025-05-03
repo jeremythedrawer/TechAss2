@@ -40,7 +40,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _dotScale: 83.3
-    - _fallOff: 8.9
+    - _fallOff: 0.53
     - _spacing: 0.243
     m_Colors:
     - _bgColor: {r: 0.8773585, g: 0.447502, b: 0.30210927, a: 1}

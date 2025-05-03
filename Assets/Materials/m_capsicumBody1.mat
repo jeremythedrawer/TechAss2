@@ -139,7 +139,7 @@ Material:
     - _dot_scale: 37.6
     - _edge1: 0
     - _edge2: 0.26
-    - _fallOff: 12.5
+    - _fallOff: 0.4
     - _maxDotScale: 29.4
     - _minDotScale: 100
     - _occlusionFallOff: 1.9

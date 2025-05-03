@@ -139,14 +139,14 @@ Material:
     - _dot_scale: 37.6
     - _edge1: 0
     - _edge2: 0.26
-    - _fallOff: 9.3
+    - _fallOff: 0.6
     - _maxDotScale: 29.4
     - _minDotScale: 100
     - _occlusionFallOff: 1.9
     - _occlusionStrength: 0.41
     - _randomFactor: 0.578
     - _smallCircleSize: 0.59
-    - _spacing: 0.24
+    - _spacing: 0.25
     - _speed: 0.897
     - _steps: 5.37
     - _stregnth: 0.6
